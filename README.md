@@ -10,8 +10,6 @@ Welcome to the **Online Library System**, an online library system built with Re
 - [Installation](#installation)
 - [Usage](#usage)
 - [Components](#components)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -46,6 +44,18 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your comp
    git clone https://github.com/Leelamanisahu/book-library.git
 
    cd book-library
-   
+
    npm run dev
+
+
+2. Usage 
+    use for the book library 
+
+3. Components
+    **Home** - Home component have category of the books you can select any category and see the book
+    **BrowseBooks** - Component Have search bar to search book and it accept id of the book and as well as without id it work
+    **BookDetails** - Show the Details about the books
+    **AddBooks** - In this Add the new Book in the Library.
+    **Card** - To visually represent the book and category in Card.
+    **ErrorPath** - It is component to show 404 not Found with Home link.
 
